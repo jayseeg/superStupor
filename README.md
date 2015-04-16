@@ -1,4 +1,4 @@
-# A Super Stupid Pairing Excercise
+# A Super Stupid Pairing Exercise
 
 ## Goals
 
